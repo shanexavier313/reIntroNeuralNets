@@ -41,7 +41,7 @@ error_out = 0
 # lr = [.01, .03, .05, .07, .09, .11]
 
 # best learning rate:
-lr = .05
+lr = .03
 results = []
 
 print(lr)
